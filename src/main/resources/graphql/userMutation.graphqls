@@ -1,0 +1,3 @@
+type UserMutation{
+    addUser(userInscription: UserInscription):User
+}
